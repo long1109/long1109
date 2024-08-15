@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Long
 #### I am embedded software engineer
 
-Skills: C/C++, Python, Quantum AI, AI, Automotive, Computer Vision, Embedded System
+Skills: C/C++, Python, AI, Automotive, Computer Vision, Embedded System, Autosar (DSM,COM,NM,CanTP,SecOC,Crypto Stack), Cyber Security, HSM.
 
 
 
