@@ -2,7 +2,9 @@
 #### I am embedded software architects with 5 years experience.
 #### I am also a researcher at IC Design Lab in HCMUT.
 
-Skills: C/C++, Python, AI, Automotive, Computer Vision, Embedded System, Autosar (DSM,COM,NM,CanTP,SecOC,Crypto Stack), Cyber Security, HSM.
+Research Interests: Pattern Recognition, Algorithm, Deep Learning, Real-time Embedded System, Automotive.
+
+Skills: C/C++, Python, AI, Computer Vision, Autosar (DSM,COM,NM,CanTP,SecOC,Crypto Stack), Cyber Security, HSM.
 
 
 
