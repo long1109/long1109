@@ -4,7 +4,7 @@
 
 Research Interests: Pattern Recognition, Algorithm, Deep Learning, Real-time Embedded System, Automotive.
 
-Skills: C/C++, Python, AI, Computer Vision, Autosar (DSM,COM,NM,CanTP,SecOC,Crypto Stack), Cyber Security, HSM.
+Skills: C/C++, Python, Autosar (DSM,COM,NM,CanTP,SecOC,Crypto Stack), Cyber Security.
 
 
 
