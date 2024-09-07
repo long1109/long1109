@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Long
-#### I am an embedded software architects with 5 years experience.
+#### I am an embedded software architects with 5 years experience in Automotive domain.
 #### I am also a researcher at IC Design Lab in HCMUT.
 
 Research Interests: Pattern Recognition, Algorithm, Deep Learning, Real-time Embedded System.
 
-Skills: C/C++, Python, Object Oriented Programming, Cuda Programming, Pytorch, Tensor Flow, Autosar.
+Skills: C/C++, Python, Object Oriented Programming, Cuda Programming, Pytorch, Tensor Flow, Autosar (DSM, CanTP, SecOC, CryptoStack), Cyber security .
 
 
 
