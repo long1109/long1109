@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Long
-#### I am an embedded software architects with 5 years experience in Automotive domain.
+#### I am an embedded software engineer with 5 years experience in Automotive domain.
 #### I am also a researcher at IC Design Lab in HCMUT.
 
 Research Interests: Pattern Recognition, Algorithm, Deep Learning, Real-time Embedded System.
