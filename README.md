@@ -2,7 +2,7 @@
 #### I am an embedded software engineer with 5 years experience in Automotive domain.
 #### I am also a researcher at IC Design Lab in HCMUT.
 
-Research Interests: Pattern Recognition, Algorithm, Deep Learning, Real-time Embedded System, Sofware Architecture.
+Research Interests: Pattern Recognition, Sofware Architecture.
 
 Skills: C/C++, Python, Object Oriented Programming, Cuda Programming, Pytorch, Tensor Flow, Autosar (DSM, CanTP, SecOC, CryptoStack), Cyber security .
 
